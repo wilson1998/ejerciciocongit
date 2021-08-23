@@ -8,7 +8,7 @@
 </head>
 <body>
 
-    <H1>MI PRIMER EJERCICIO CON GIT</H1>
+    <H1>MI PRIMER EJERCICIO CON GIT</h1>esto lo hice en git hub
     
 </body>
 </html>
